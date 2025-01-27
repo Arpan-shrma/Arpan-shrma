@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Sharma</h1>
 <h3 align="center">Budding Data Scientist | Ex-Junior Scientist | Data Analyst | Business Analyst</h3> 
-![Hi](./banner_git.png)
+<img align="center" alt="banner" width="100%" src="./banner_git.png"/>
 
 
 
