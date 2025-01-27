@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpan Sharma</h1>
-<h3 align="center">Budding Data Scientist | Ex-Junior Scientist | Data Analyst | Business Analyst</h3>
+<h3 align="center">Budding Data Scientist | Ex-Junior Scientist | Data Analyst | Business Analyst</h3> (./banner_git.png)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-shrma&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-shrma" /> </p>
 
