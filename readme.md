@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpan Sharma</h1>
-<h3 align="center">Budding Data Scientist | Ex-Junior Scientist | Data Analyst | Business Analyst</h3> (./banner_git.png)
+<h3 align="center">Budding Data Scientist | Ex-Junior Scientist | Data Analyst | Business Analyst</h3> 
+![Hi](./banner_git.png)
 
 
 
