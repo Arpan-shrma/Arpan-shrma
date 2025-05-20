@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan-shrma" alt="arpan-shrma" /></a> </p>
 
-- 🔭 I’m currently working on **developing an ai based agent.**
+- 🔭 I’m currently working on **IESF Dashboard project at University of Guelph.**
 
 - 🌱 I’m currently learning **data science techniques to apply on geospatial-temporal data**
 
